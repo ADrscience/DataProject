@@ -1,6 +1,8 @@
 def main()
-    while 1=1:
-        2=2
+x=10
+    while  x>5
+        print(x+5)
+        
 
 
   
